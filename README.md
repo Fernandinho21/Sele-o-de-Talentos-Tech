@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 Sistema de Lanchonete
 
 Pequena aplicação Python que simula as regras de negócio de uma lanchonete, desenvolvida para fins educacionais com foco em testes unitários automatizados.
@@ -102,3 +103,7 @@ pytest test_lanchonete.py --cov=. --cov-report=term-missing
 ```
 
 O projeto conta com **+30 testes unitários** cobrindo cenários válidos e inválidos de todas as regras de negócio.
+=======
+# Sele-o-de-Talentos-Tech
+avaliação facultativa 
+>>>>>>> 57b28494d89cac61b7446b3f6c1515d1e6993e98
