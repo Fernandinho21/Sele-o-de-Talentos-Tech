@@ -107,3 +107,4 @@ O projeto conta com **+30 testes unitários** cobrindo cenários válidos e inv�
 # Sele-o-de-Talentos-Tech
 avaliação facultativa 
 >>>>>>> 57b28494d89cac61b7446b3f6c1515d1e6993e98
+![covarge](https://github.com/user-attachments/assets/a2b65809-92c9-4ea4-ab5c-1c897f06d835)
